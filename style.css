@@ -1,0 +1,63 @@
+body{
+    background-color: green;
+}
+.box{
+    background-color: white;
+    color: black;
+    height: 400px;
+    width: 500px;
+    /* margin-left: 300px;
+    margin-top: 300px; */
+    margin: auto;
+    margin-top: 200px;
+    padding: 30px;
+    /* align-content: center; */
+    padding-right: 63px;
+
+}
+a{
+    color: green;
+}
+.green{
+    background-color: green;
+    margin-left: 150px;
+    width: 240px;
+    height: 40px;
+    color: white;
+    font-size: bold;
+}
+h2{
+    text-align: center;
+}
+.center{
+    text-align: center;
+    margin-left: 30px;
+}
+#lusername{
+    margin-bottom: 20px;
+    /* align-content: center; */
+    /* justify-content: center; */
+    margin-left:150px;
+    width: 230px;
+    height: 40px;
+    background-color: darkgray;
+
+}
+#lpassword{
+    margin-bottom: 20px;
+    margin-left: 150px;
+    width: 230px;
+    height: 40px;
+    background-color:darkgray;
+}
+.not{
+    display: inline-block;
+    /* margin-left */
+    margin-left: 150px
+    
+    
+}
+.out{
+    display: inline-block;
+}
+
